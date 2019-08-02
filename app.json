@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LCPS Student App",
-    "slug": "LCPSGradeApp",
+    "name": "Student App (LCPS)",
+    "slug": "LCPS-Grade-Checker",
     "privacy": "public",
     "sdkVersion": "34.0.0",
     "platforms": [
